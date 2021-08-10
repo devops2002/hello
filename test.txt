@@ -1,3 +1,4 @@
 hello world
 New string
 new string 2
+delete
